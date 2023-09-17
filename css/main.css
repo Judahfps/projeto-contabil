@@ -138,5 +138,20 @@ h1 {
     ul a {
         font-size: 15px;
     }
+    .tudo-body {
+        width: 100%;
+    }
+    #noticias {
+        width: 100%;
+    }
+
+    #footer {
+        width: 100%;
+    }
+
+    #menu {
+        display: block;
+        font-size: 15px;
+    }
 
 }
