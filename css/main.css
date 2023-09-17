@@ -153,5 +153,8 @@ h1 {
         display: block;
         font-size: 15px;
     }
+    .midia-social {
+        width: 100%;
+    }
 
 }
